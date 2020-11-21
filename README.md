@@ -1,0 +1,2 @@
+# blogspot
+Moved to https://codeberg.org/lucas/blogspot
